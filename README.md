@@ -6,6 +6,8 @@ A react-spring parallax effect built with React, Typescript and Vite
 
 - [https://emanuelefavero.github.io/react-spring-parallax/](https://emanuelefavero.github.io/react-spring-parallax/)
 
+<img src="react-spring-parallax.gif" alt="screenshot" width="180">
+
 ## Installation
 
 - Clone the repo and `cd` into it, then run:
