@@ -4,7 +4,7 @@ A react-spring parallax effect built with React, Typescript and Vite
 
 ## Live Demo
 
-- [https://emanuelefavero.github.io/react-spring-parallax/](https://emanuelefavero.github.io/react-spring-parallax/)
+- [https://react-spring-parallax.vercel.app/](https://react-spring-parallax.vercel.app/)
 
 <img src="react-spring-parallax.gif" alt="screenshot" width="180">
 
